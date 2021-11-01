@@ -1,4 +1,6 @@
 spring:
+  application:
+    name: betterreads-data-loader
   data:
     cassandra:
       keyspace-name: main
@@ -10,6 +12,10 @@ spring:
       connection:
         connect-timeout: 10s
         init-query-timeout: 10s
+
+datadump.location:
+  author: F:/Projects/Code/betterreads/betterreads-data-loader/src/main/resources/authors.txt
+  works: F:/Projects/Code/betterreads/betterreads-data-loader/src/main/resources/works.txt
 
 datastax.astra:
     secure-connect-bundle: secure-connect.zip

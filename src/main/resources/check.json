@@ -1,0 +1,36 @@
+{
+    "title": "Spooksville - The Wicked Cat",
+    "covers": [
+        4648894,
+        4973718,
+        9206708
+    ],
+    "key": "/works/OL1000768W",
+    "authors": [
+        {
+            "author": {
+                "key": "/authors/OL92956A"
+            },
+            "type": {
+                "key": "/type/author_role"
+            }
+        }
+    ],
+    "type": {
+        "key": "/type/work"
+    },
+    "description": {
+        "type": "/type/text",
+        "value": "Adam and his friends are exploring the area around Spooksville when they come across a black cat. It seems friendly: it purrs when they rub its back, and licks its paws like any other cat. But then it follows them back to town, and strange things begin to happen. A tree falls down, and a house catches fire. Each time something bad happens, the cat is there\u2014watching, with its strange green eyes. And it won\u2019t go away.\r\n\r\nAdam and his friends don\u2019t know what to do. Especially when the fearsome feline begins to use its powers on them!"
+    },
+    "latest_revision": 6,
+    "revision": 6,
+    "created": {
+        "type": "/type/datetime",
+        "value": "2009-12-09T19:05:50.674576"
+    },
+    "last_modified": {
+        "type": "/type/datetime",
+        "value": "2021-06-21T13:25:21.190781"
+    }
+}
